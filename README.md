@@ -1,8 +1,8 @@
 # NewMacSetup
 
-<img src="https://banastas.com/assets/images/newMacSetup.png">
+<img src="https://banastas.github.io/NewMacSetup/newMacSetup.png">
 
-Inspired by [@deianisac's](https://medium.com/@deianisac) guide (How to quickly set up a Mac with Homebrew](https://medium.com/@deianisac/how-to-quickly-set-up-a-mac-b9f89aed0dc)), this is my personal setup script to quickly install all programs needed after an OS reinstall or on a new Mac.
+Inspired by [@deianisac's](https://medium.com/@deianisac) guide [How to quickly set up a Mac with Homebrew](https://medium.com/@deianisac/how-to-quickly-set-up-a-mac-b9f89aed0dc)), this is my personal setup script to quickly install all programs needed after an OS reinstall or on a new Mac.
 
 Run chmod a+x newMacSetup.sh to make the script executable.
 
