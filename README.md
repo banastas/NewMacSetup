@@ -15,6 +15,7 @@ Included Packages:
 * [thefuck](https://github.com/nvbn/thefuck)
 * [wget](https://www.gnu.org/software/wget/)
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/download.html)
+* [f1viewer](https://github.com/SoMuchForSubtlety/f1viewer)
 
 Included Casks:
 * [1password](https://1password.com/)
