@@ -26,6 +26,7 @@ brew install sqlite
 brew install thefuck
 brew install wget
 brew install youtube-dl
+brew install yarn
 
 # Install F1Viewer
 brew tap SoMuchForSubtlety/tap

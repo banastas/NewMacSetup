@@ -16,6 +16,7 @@ Included Packages:
 * [wget](https://www.gnu.org/software/wget/)
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/download.html)
 * [f1viewer](https://github.com/SoMuchForSubtlety/f1viewer)
+* [yarn](https://classic.yarnpkg.com/)
 
 Included Casks:
 * [1password](https://1password.com/)
