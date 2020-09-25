@@ -49,6 +49,7 @@ brew cask install private-internet-access
 brew cask install sublime-text
 brew cask install the-unarchiver
 brew cask install tweetbot
+brew cask install meetingbar
 
 # Finish up
 brew cleanup
