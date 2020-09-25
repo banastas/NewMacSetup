@@ -32,3 +32,4 @@ Included Casks:
 * [sublime-text](https://www.sublimetext.com/3)
 * [the-unarchiver](https://theunarchiver.com/)
 * [tweetbot](https://tapbots.com/tweetbot/mac/)
+* [MeetingBar](https://github.com/leits/MeetingBar)
